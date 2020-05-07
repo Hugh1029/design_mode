@@ -12,4 +12,5 @@ repositories {
 }
 
 dependencies {
+    compile group: 'cglib', name: 'cglib', version: '3.3.0'
 }
