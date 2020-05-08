@@ -8,7 +8,7 @@ package cn.answering.design.mode.num2.proxy.num3;
  * @web: https://answering.cn
  * @description
  *
- * 
+ *
  *
  */
 public class TestMain {
