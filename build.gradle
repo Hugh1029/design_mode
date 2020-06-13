@@ -13,4 +13,5 @@ repositories {
 
 dependencies {
     compile group: 'cglib', name: 'cglib', version: '3.3.0'
+    compile group: 'org.jsoup', name: 'jsoup', version: '1.13.1'
 }
